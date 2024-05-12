@@ -1,0 +1,6 @@
+C:/Users/katya/source/repos/polinom — копия/CMakeFiles/test.dir
+C:/Users/katya/source/repos/polinom — копия/CMakeFiles/sample.dir
+C:/Users/katya/source/repos/polinom — копия/CMakeFiles/gtest.dir
+C:/Users/katya/source/repos/polinom — копия/CMakeFiles/polinoms.dir
+C:/Users/katya/source/repos/polinom — копия/CMakeFiles/ALL_BUILD.dir
+C:/Users/katya/source/repos/polinom — копия/CMakeFiles/ZERO_CHECK.dir
